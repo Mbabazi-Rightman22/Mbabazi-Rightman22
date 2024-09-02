@@ -1,4 +1,4 @@
-- :office: I’m currently a System Engineer at ESRI Rwanda Ltd.
+- :office: I’m currently as System Engineer at ESRI Rwanda Ltd.
 - :telescope: I’m currently working on personal projects related to machine learning  and freelancing.
 - :seedling: I’m currently learning Machine Learning and data analysis.
 - :mailbox: How to reach me: rightmanmbabazi@gmail.com \ LinkedIn: https://www.linkedin.com/in/mbabazi-rightman-10a428155/
